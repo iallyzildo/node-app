@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: a628274d-5b88-41db-bf09-8545761bf004
-  app: ancient-bastion-7932
+    secure: 3dc600c5-d392-4fae-ba3c-ab4ebc1c94b4
+  app: shielded-headland-9079
   on:
-    repo: filipeguelber/node-app
+    repo: iallyzildo/node-app
